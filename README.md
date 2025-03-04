@@ -1,1 +1,1 @@
-my first file
+My first lerning projects where I worked with different datasets and machine learning models, dataframes for data manipulation, applied functions across rows and columns for analysis created data visualisations to present findings effectively, Predicted property prices using machine learning, strengthening data analysis and model-building skills, Collected & analyzed structured data and refined models for better predictive accuracy to identify collection trends.
